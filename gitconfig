@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = cbanchio5@gmail.com
+	name = cesar banchio
